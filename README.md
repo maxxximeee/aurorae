@@ -6,9 +6,9 @@
 
 La démarche proposée a pour but d’expliquer chronologiquement la formation d’aurores polaires sur Terre, allant de l’émission des particules de vent solaire jusqu’à leurs interactions dans la magnétosphère terrestre.
 
-Il sera en outre question de confronter la modélisation théorique réalisée ainsi que ses hypothèses avec les résultats expérimentaux et statistiques obtenus. L’idée sera d’étudier la trajectoire des particules solaires en particulier sous l’influence du champ magnétique terrestre et de voir où et comment elles se désexcitent pour former des aurores.
+Il est en outre question de confronter la modélisation théorique réalisée ainsi que ses hypothèses avec les résultats expérimentaux et statistiques obtenus. L’idée est d’étudier la trajectoire des particules solaires en particulier sous l’influence du champ magnétique terrestre et de voir où et comment elles se désexcitent pour former des aurores.
 
-Enfin, la corrélation entre les pics d’activité solaire, l’observation d’aurores et les perturbations géomagnétiques sera mise en exergue.
+Enfin, la corrélation entre les pics d’activité solaire, l’observation d’aurores et les perturbations géomagnétiques est mise en exergue au travers de cette étude.
 
 ---
 
